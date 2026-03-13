@@ -4,7 +4,6 @@
 在你的 Claude Code 终端中，依次输入并运行以下两条命令即可完成安装：
 
 **1. 添加我的插件市场：**
-```bash
 /plugin marketplace add SuperEldridge/workspace_fast_Init
 
 **2. 安装本插件：**
