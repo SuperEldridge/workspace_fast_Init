@@ -1,3 +1,19 @@
+这是一个专为 Claude Code 打造的快捷初始化工作流插件，包含了高效的目录结构规范、自动化的 Hooks 以及实用的 Skills。
+## 下载与安装
+
+在你的 Claude Code 终端中，依次输入并运行以下两条命令即可完成安装：
+
+**1. 添加我的插件市场：**
+```bash
+/plugin marketplace add SuperEldridge/workspace_fast_Init
+
+**2. 安装本插件：**
+/plugin install workspace-fast-init@SuperEldridge-Plugins
+
+
+
+
+
 建议配置的工作区框架如下：
 F:\workspace\
 ├── .claude/
@@ -26,21 +42,6 @@ F:\workspace\
 
 以上为工作区搭建，还可在全局设置agent、CLAUDE.md和GLOBAL_LESSONS.md等等，全局的就个人情况个人分析
 如果遇到有跑不通的，盘可能和我不一样，我是F盘，可以改成自己的盘和路径
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
